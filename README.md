@@ -1,6 +1,5 @@
 # wes-anderson
 
 Rushmore
-Grand Budapest Hotel
+GRand Budapest Hotel
 The fantastic mr fox
-another great movie
