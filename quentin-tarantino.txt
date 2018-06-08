@@ -3,3 +3,6 @@ Kill Bill
 another file
 
 Okay Google, who is Quentin Tarantino?
+
+lots of changes
+merge CONFLICTS!!! ERROR
